@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi everyone! 👋
 
-<!--
-**estbust/estbust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Esteban Bahamón** from **El Salvador** 🌍. 
 
-Here are some ideas to get you started:
+I'm currently learning how to become a **Web Developer** 🚀. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the languages and tools I'm exploring:
+
+- 🐍 **Python**
+- 🌱 **Git** and **GitHub**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ...and more!
